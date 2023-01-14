@@ -13,3 +13,7 @@ Uploaded a simplified version to the original with the use of Data Science Libra
 
 Screenshot of the graph as of 28/08/2022:\
 ![Graph comparing Daily Cases and Recovered Cases as of 28/08/2022](SimplifiedVersion/NewVSRecovered.png "Graph comparing Daily Cases and Recovered Cases")
+
+Update:
+I have also created a GUI Version of this project. Output is shown in this picture.
+![image](https://user-images.githubusercontent.com/41332340/212465067-20b7eb34-1c55-4903-83de-0de667394254.png)
